@@ -1,6 +1,6 @@
 # lessons
 The following is a loosely currated list of engineering thoughts I had or captured throughout my career.
-I might have been right the day these are written, wrong the day after and obsolete the day they are read.
+> I might have been right the day these are written, wrong the day after and obsolete the day they are read.
 
 1. The program is not code, it is but a component of a solution to a problem.
 2. Code is one of several ways the part of solution is described.
